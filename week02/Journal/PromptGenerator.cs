@@ -22,4 +22,3 @@ public class PromptsGenerator
     }
 }
 
-    // This class is responsible for generating prompts for the journa
